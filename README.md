@@ -1,9 +1,7 @@
 <div align="center">
 
-<img src="https://readme-svg-typing-generator.vercel.app/api?lines=Hi+there%2C+I'm+Hamim;Computer+Science+Student;Cybersecurity+%2B+ML%2FNLP+Enthusiast;Always+Learning%2C+Always+Building&animation=glitch&color=00F7FF&background=00000000&size=28&font=code&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=60&repeat=true" alt="Glitch typing effect" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Hamim+%F0%9F%91%8B;Computer+Science+Student;Cybersecurity+%2B+ML%2FNLP+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=hamim-placeholder&color=blueviolet&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/hamim-placeholder?style=for-the-badge&color=00F7FF&labelColor=black)
 
 </div>
 
@@ -34,7 +32,6 @@ currently_learning: ["Blue Team Security", "Web Development", "Machine Learning/
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frameworks & Libraries
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -51,7 +48,6 @@ currently_learning: ["Blue Team Security", "Web Development", "Machine Learning/
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -70,9 +66,7 @@ currently_learning: ["Blue Team Security", "Web Development", "Machine Learning/
 
 <div align="center">
 
-### "Code, Break, Learn, Repeat."
+### "Build, Break, Learn, Repeat."
 
-![Pac-Man contribution animation](https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/pacman-contribution-grid.svg#gh-dark-mode-only)
-![Pac-Man contribution animation](https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/pacman-contribution-grid-light.svg#gh-light-mode-only)
 
 </div>
