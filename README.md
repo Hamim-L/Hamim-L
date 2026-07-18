@@ -19,7 +19,6 @@ current_role: -
 interests:
   - Software Engineering
   - Offensive Security & Penetration Testing
-  - CTF Competitions
   - Machine Learning / NLP
 currently_learning: ["Blue Team Security", "Web Development", "Machine Learning/NLP"]
 ```
@@ -75,6 +74,7 @@ currently_learning: ["Blue Team Security", "Web Development", "Machine Learning/
 
 ###  "Code, Break, Learn, Repeat."
 
-![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+![Pac-Man contribution animation](https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/pacman-contribution-grid.svg#gh-dark-mode-only)
+![Pac-Man contribution animation](https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/pacman-contribution-grid-light.svg#gh-light-mode-only)
 
 </div>
