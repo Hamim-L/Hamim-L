@@ -14,7 +14,7 @@ name: "Hamim"
 interests:
   - Software Engineering
   - Offensive Security & Penetration Testing
-  - Machine Learning / NLP
+  - Machine Learning & Deep Learning
 currently_learning: ["Blue Team Security", "Web Development", "Machine Learning/NLP"]
 ```
 
