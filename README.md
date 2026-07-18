@@ -1,16 +1,122 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Hamim-L/Hamim-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Hamim+%F0%9F%91%8B;Computer+Science+Student;Cybersecurity+%2B+ML%2FNLP+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=hamim-placeholder&color=blueviolet&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/hamim-placeholder?style=for-the-badge&color=00F7FF&labelColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 👋 About Me
+
+```yaml
+name: "Hamim"
+role: "Computer Science Student @ Universitas Negeri Jakarta (FMIPA UNJ)"
+year: "2nd Year"
+current_role: "Project Manager — Kelompok 10 (Software Engineering / RPL)"
+interests:
+  - Software Engineering
+  - Offensive Security & Penetration Testing
+  - CTF Competitions
+  - Machine Learning / NLP
+currently_learning: ["OSCP roadmap", "Deep Learning for Time Series", "Haskell"]
+fun_fact: "Debugging code by day, hunting vulnerabilities by night 🕵️‍♂️"
+```
+
+- 🎓 Currently studying **Computer Science** at **FMIPA UNJ**
+- 🛡️ Holder of **Web-RTA** certification (CyberWarFare Labs) — working toward **eJPT** & **OSCP**
+- 🧠 Exploring the intersection of **cybersecurity**, **AI/ML**, and **software engineering**
+- 🚩 Passionate about **CTF competitions** and offensive security research
+- 🤝 Leading **Kelompok 10** as Project Manager in a Software Engineering course project
+- 💬 Ask me about: Penetration Testing, NLP, Haskell, or Software Requirement Docs (SRS/BRD/SDD)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
+
+### Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Cybersecurity & Tools
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🕹️ Game Studio Reverse Engineering</h3>
+      <p align="center">Proyek Software Engineering (RPL) — reverse engineering platform Game Studio bersama Kelompok 10 sebagai Project Manager.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🐚 NgawiShell</h3>
+      <p align="center">Custom shell berbasis Python untuk mata kuliah Sistem Operasi, dibangun bersama tim.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">☕ Café Sentiment Analysis</h3>
+      <p align="center">Analisis sentimen ulasan Google Maps kafe-kafe di Bekasi menggunakan NLP.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎯 SkillMatch</h3>
+      <p align="center">Capstone AI Engineer di Coding Camp 2026 (DBS Foundation) — platform rekomendasi pekerjaan berbasis skill matching.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin-here">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio-link-here.com">
+    <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=firefox&logoColor=black" />
+  </a>
+  <a href="mailto:your-email-here@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/your-instagram-here">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "Code, Break, Learn, Repeat."
+
+![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+
+</div>
