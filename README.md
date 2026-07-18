@@ -13,24 +13,21 @@
 
 ```yaml
 name: "Hamim"
-role: "Computer Science Student @ Universitas Negeri Jakarta (FMIPA UNJ)"
-year: "2nd Year"
-current_role: "Project Manager — Kelompok 10 (Software Engineering / RPL)"
+role: -
+year: -
+current_role: -
 interests:
   - Software Engineering
   - Offensive Security & Penetration Testing
   - CTF Competitions
   - Machine Learning / NLP
-currently_learning: ["OSCP roadmap", "Deep Learning for Time Series", "Haskell"]
-fun_fact: "Debugging code by day, hunting vulnerabilities by night 🕵️‍♂️"
+currently_learning: ["Blue Team Security", "Web Development", "Machine Learning/NLP"]
 ```
 
-- 🎓 Currently studying **Computer Science** at **FMIPA UNJ**
-- 🛡️ Holder of **Web-RTA** certification (CyberWarFare Labs) — working toward **eJPT** & **OSCP**
+- 🛡️ Holder of **Web-RTA** certification (CyberWarFare Labs) — working toward **BTL1** & **CPTS**
 - 🧠 Exploring the intersection of **cybersecurity**, **AI/ML**, and **software engineering**
 - 🚩 Passionate about **CTF competitions** and offensive security research
-- 🤝 Leading **Kelompok 10** as Project Manager in a Software Engineering course project
-- 💬 Ask me about: Penetration Testing, NLP, Haskell, or Software Requirement Docs (SRS/BRD/SDD)
+- 💬 Ask me about: Penetration Testing, NLP, Web Dev
 
 ---
 
@@ -39,10 +36,6 @@ fun_fact: "Debugging code by day, hunting vulnerabilities by night 🕵️‍♂
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ### Frameworks & Libraries
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -55,7 +48,6 @@ fun_fact: "Debugging code by day, hunting vulnerabilities by night 🕵️‍♂
 ### Cybersecurity & Tools
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Tools & Platforms
@@ -65,36 +57,8 @@ fun_fact: "Debugging code by day, hunting vulnerabilities by night 🕵️‍♂
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
 
-## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🕹️ Game Studio Reverse Engineering</h3>
-      <p align="center">Proyek Software Engineering (RPL) — reverse engineering platform Game Studio bersama Kelompok 10 sebagai Project Manager.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🐚 NgawiShell</h3>
-      <p align="center">Custom shell berbasis Python untuk mata kuliah Sistem Operasi, dibangun bersama tim.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">☕ Café Sentiment Analysis</h3>
-      <p align="center">Analisis sentimen ulasan Google Maps kafe-kafe di Bekasi menggunakan NLP.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎯 SkillMatch</h3>
-      <p align="center">Capstone AI Engineer di Coding Camp 2026 (DBS Foundation) — platform rekomendasi pekerjaan berbasis skill matching.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin-here">
@@ -103,19 +67,13 @@ fun_fact: "Debugging code by day, hunting vulnerabilities by night 🕵️‍♂
   <a href="https://your-portfolio-link-here.com">
     <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=firefox&logoColor=black" />
   </a>
-  <a href="mailto:your-email-here@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/your-instagram-here">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 </p>
 
 ---
 
 <div align="center">
 
-### 💡 "Code, Break, Learn, Repeat."
+###  "Code, Break, Learn, Repeat."
 
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
