@@ -13,15 +13,10 @@
 name: "Hamim"
 interests:
   - Software Engineering
-  - Offensive Security & Penetration Testing
+  - Offensive Security & Deffensive Security
   - Machine Learning & Deep Learning
-currently_learning: ["Blue Team Security", "Web Development", "Machine Learning/NLP"]
 ```
 
-- 🛡️ Holder of **Web-RTA** certification (CyberWarFare Labs) — working toward **BTL1** & **CPTS**
-- 🧠 Exploring the intersection of **cybersecurity**, **AI/ML**, and **software engineering**
-- 🚩 Passionate about **Web Dev** and **offensive security research**
-- 💬 Ask me about: Offensive Security, NLP, Web Dev
 
 ---
 
