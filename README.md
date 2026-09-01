@@ -44,20 +44,6 @@ interests:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-here">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio-link-here.com">
-    <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=firefox&logoColor=black" />
-  </a>
-</p>
-
----
 
 <div align="center">
 
