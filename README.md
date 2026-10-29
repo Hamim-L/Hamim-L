@@ -32,7 +32,6 @@ A passionate individual with a strong curiosity for technology. My journey began
 
 ---
 
-## 📊 GitHub Stats
 
 <div align="center">
 
